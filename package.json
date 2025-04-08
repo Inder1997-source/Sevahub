@@ -1,7 +1,6 @@
 {
-  "name": "sevahub-backend",
+  "name": "sevahub-frontend",
   "dependencies": {
-    "express": "^4.0.0",
-    "mongoose": "^6.0.0"
+    "react": "^18.0.0"
   }
 }
